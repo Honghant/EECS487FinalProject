@@ -13,9 +13,10 @@ Web crawling from Twitter
 Implementation of Naive Bayes & BERT model to classify and prediction of the final results
 
 #### 4. GPE_Media_Reference
-
+Output from BERT for 12 media's attitude towards 5 different geopolitical entities
 #### 5. Semi-supervised Analysis of Media Attitudes toward Geopolitical Entities at the End of 2022
-
+The slides for presentation
 #### 6. /dataset
-
+The folder to store the dataset for training, validation, testing and prediction
 #### 7. /plots
+The folder to store the plots we visualization from the output of 487FinalProject_Models.ipynb
