@@ -20,3 +20,7 @@ The slides for presentation
 The folder to store the dataset for training, validation, testing and prediction
 #### 7. /plots
 The folder to store the plots we visualization from the output of 487FinalProject_Models.ipynb
+
+## Authors
+Hantao Hong, Jacky He
+University of Michigan
