@@ -1,4 +1,4 @@
-# EECS487FinalProject
+# EECS487 Final Project
 Semi-supervised Analysis of Media Attitudes toward Geopolitical Entities at the End of 2022
 
 ## Introduction
