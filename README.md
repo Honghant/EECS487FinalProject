@@ -23,4 +23,3 @@ The folder to store the plots we visualization from the output of 487FinalProjec
 
 ## Authors
 Hantao Hong, Jacky He
-University of Michigan
